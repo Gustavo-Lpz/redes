@@ -15,6 +15,7 @@ export class ProfileComponent {
     email: "juan.perez@example.com",
     username: "juanp",
     imageUrl: "/chico.jpg",
+    hobbye: "Ejercicio",
   };
 
   //metodos
